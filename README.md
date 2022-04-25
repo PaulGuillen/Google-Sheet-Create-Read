@@ -4,7 +4,7 @@ En este proyecto realizaré un CRUD (create , read , update, delete) en cual se 
 
 ## Comenzando 🚀
 
-_Esta parte sería el proyecto unido el cual mostrará las diferentes ramas de github_
+_Esta parte sería el proyecto unido el cual mostrará las diferentes ramas del proyecto_
 
 ### Pre-requisitos 📋
 
