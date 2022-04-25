@@ -31,6 +31,13 @@ _En este paso nos vamos a "Extensiones" y seleccionamos AppScript deberíamos te
  <img src="https://i.postimg.cc/4dGjzg56/app-Script.png"/>
 </p>
 
+_En este paso veremos la lista de los datos insertados como un ENDPOINT, el cual podemos consultar con volley o retrofit 2, mira "Modelo de datos en Postman"._
+
+<p align="center">
+ <img src="https://i.postimg.cc/pLrg0Y3p/getan-Endpoints.png"/>
+</p>
+
+
 
 ## Modelo de datos en Postman 📖
 
