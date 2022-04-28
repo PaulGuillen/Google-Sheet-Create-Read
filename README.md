@@ -1,6 +1,6 @@
-# GoogleSheetCRUD
+# GettingDataFromGoogleSheet
 
-En este proyecto realizaré un CRUD (create , read , update, delete) en cual se usará como base de datos una hoja de cálculo en google drive.
+
 
 ## Comenzando 🚀
 
