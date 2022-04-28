@@ -10,7 +10,20 @@ _Para este proyecto tenemos que tener en cuenta que usaremos AppScript es una de
 
 ### Pre-requisitos 📋
 
-_Android Studio, conocer sibre kotlin, tener una base sobre retrofit2,  conocimiento básico en volley_
+_Android Studio, conocer sibre kotlin, tener una base sobre retrofit2,  conocimiento básico en volley, también debemos tener en cuenta que el APPSCRIPT debe estar implementado como Web para así crear un ENDPOINT._
+
+```
+. MinSdk =  24
+. CompileSdk = 31
+. TargetSdk = 31
+. Gradle JDFK = corretto - 15 Amanzon Corretto version 15.0.2 
+
+- Librerías :
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.google.code.gson:gson:2.8.9'
+    implementation 'com.android.volley:volley:1.2.1'
+```
 
 _En esta imagen podemos apreciar que la URL de google sheet esta siendo utilizada, como también la posicion del archivo el cual es llamado "Items"_
 
