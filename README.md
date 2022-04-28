@@ -4,21 +4,16 @@ _En esta parte se le añadio, el uso de retrofit2 con convertergson para asi pod
 
 ## Comenzando 🚀
 
-
-
-### Pre-requisitos 📋
-
-_Android Studio, kotlin, retrofit2, volley_
-
----
+_Como podemos ver en la imagen el modelo de datos empieza con llaves lo que significa que es un objecto, dentro de ese objeto hay un Array llamado Items, dentro de ese array existe una lista de objetos, este sería nuestro principal enfoque a consultar._
 
 <p align="center">
+     <img src="https://i.postimg.cc/m2Pcrrzk/ListData.png"/>
 </p>
 
 
 ## Modelo de datos en Postman 📖
 
-_Mostraré un ejemplo del estructura de la información que utilizaremos, en este caso sera la data insertada previamente_
+_A tener en cuenta los datos y la estructura_
 
 ```
 {
@@ -41,6 +36,19 @@ _Mostraré un ejemplo del estructura de la información que utilizaremos, en est
         },
 
 ```
+## Ejecutando los diseños ⚙️
 
+_Vistas principales del listado de datos_
+
+<p align="center">
+     <img src="https://i.postimg.cc/4xBNbkhq/Screenshot-1651164348.png"/>
+     <img src="https://i.postimg.cc/QMCNf4Qt/Screenshot-1651164353.png"/>
+</p>
+
+## Video 📄
+
+_Mostraremos como funciona el listado de datos_
+
+https://user-images.githubusercontent.com/43099030/165808247-c26744fe-1730-4c24-8087-070b5494a5b3.mp4
 
 
