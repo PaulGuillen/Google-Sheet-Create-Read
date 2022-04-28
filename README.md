@@ -28,15 +28,21 @@ _Acá se aprecia como es el appscrit para generar un ENDPOINT y asi poder consul
 ## Modelo de datos en Postman 📖
 
 _Mostraré un ejemplo del estructura de la información que utilizaremos, en este caso sera la data insertada previamente_
-_Como podemos ver en la imagen el modelo de datos empieza con llaves lo que significa que es un objecto, dentro de ese objeto hay un Array llamado Items, dentro de ese array existe una lista de objetos, este sería nuestro principal enfoque a consultar._
+_Como podemos ver en la imagen el modelo de datos empieza con llaves lo que significa que es un objeto, dentro de ese objeto hay un Array llamado Items, dentro de ese array existe una lista de objetos, este sería nuestro principal enfoque a consultar._
 
 <p align="center">
      <img src="https://i.postimg.cc/m2Pcrrzk/ListData.png"/>
 </p>
 
-
-
-
+## [CRUD Proyecto]
+1. Insertando datos con volley
+	- CreateDataIntoGoogleSheet
+		- https://github.com/PaulGuillen/GoogleSheetCRUD/tree/CreateDataintoGoogleSheetView
+2. Consultado datos con retrofit2
+   - GettingdataFromGoogleSheet
+	   - https://github.com/PaulGuillen/GoogleSheetCRUD/tree/GettingDataFromGoogleSheet
+	
+   
 ## Autor ✒️
 
 * **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
