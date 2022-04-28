@@ -7,24 +7,12 @@
     android:layout_height="match_parent"
     tools:context=".ReadActivity">
 
-    <RelativeLayout
-        android:id="@+id/relativelayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <ProgressBar
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true" />
-
-    </RelativeLayout>
-
     <androidx.recyclerview.widget.RecyclerView
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:id="@+id/recyclerView"
+        tools:listitem="@layout/item_data"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
