@@ -1,17 +1,21 @@
 # GoogleSheetCRUD
 
-En este proyecto realizaré un CRUD (create , read , update, delete) en cual se usará como base de datos una hoja de cálculo en google drive.
+_Este proyecto se enfocará en el uso de retrofit2 para consultas de datos, y volley para el registro con propósitos de aprendizaje, ademas del modelado de los datos, los cuales puedes observar en **Modelado de Datos en Postman**_
 
 ## Comenzando 🚀
 
+_Para este proyecto tenemos que tener en cuenta que usaremos AppScript es una de las extensiones en GoogleSheet, ádemas de que la hoja de cálculo debe estar compartida para todas la personas, es necesario tener la URL de la página de GoogleSheet, ádemas de la pestaña en la parte inferior, en este caso la llamamos "Items"_
+
+[![hoja-calculo.png](https://i.postimg.cc/xdYRbZzX/hoja-calculo.png)](https://postimg.cc/xXxHwtgQ)
 
 ### Pre-requisitos 📋
 
-_Android Studio, kotlin, retrofit2, volley_
+_Android Studio, conocer sibre kotlin, tener una base sobre retrofit2,  conocimiento básico en volley_
 
----
+_En esta imagen podemos apreciar que la URL de google sheet esta siendo utilizada, como también la posicion del archivo el cual es llamado "Items"_
 
 <p align="center">
+   <img src="https://i.postimg.cc/ZnZ4k4BT/additem.png"/>
 </p>
 
 
