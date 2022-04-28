@@ -4,7 +4,7 @@ _Este proyecto se enfocará en el uso de retrofit2 para consultas de datos, y vo
 
 ## Comenzando 🚀
 
-_Para este proyecto tenemos que tener en cuenta que usaremos AppScript es una de las extensiones en GoogleSheet, ádemas de que la hoja de cálculo debe estar compartida para todas la personas, es necesario tener la URL de la página de GoogleSheet, ádemas de la pestaña en la parte inferior, en este caso la llamamos "Items"_
+_Para este proyecto tenemos que tener en cuenta que usaremos AppScript es una de las extensiones en GoogleSheet, ádemas de que la hoja de cálculo debe estar compartida para todas la personas, es necesario tener la URL de la página de GoogleSheet, también de la pestaña en la parte inferior, en este caso la llamamos "Items"_
 
 [![hoja-calculo.png](https://i.postimg.cc/xdYRbZzX/hoja-calculo.png)](https://postimg.cc/xXxHwtgQ)
 
@@ -18,6 +18,12 @@ _En esta imagen podemos apreciar que la URL de google sheet esta siendo utilizad
    <img src="https://i.postimg.cc/ZnZ4k4BT/additem.png"/>
 </p>
 
+
+_Acá se aprecia como es el appscrit para generar un ENDPOINT y asi poder consultar los datos en postman, el cual procederemos a modelar los datos en kotlin_
+
+<p align="center">
+   <img src="https://i.postimg.cc/T3ywJ2nS/listitems.png"/>
+</p>
 
 ## Modelo de datos en Postman 📖
 
@@ -42,8 +48,12 @@ _Mostraré un ejemplo del estructura de la información que utilizaremos, en est
             "productType": "Tipo 2",
             "productRating": "3.0"
         },
+           
 
 ```
 
 
+## Autor ✒️
 
+* **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
+* 
