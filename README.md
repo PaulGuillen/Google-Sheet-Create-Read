@@ -1,8 +1,9 @@
 # GettingDataFromGoogleSheet
 
-
+_En esta parte se le añadio, el uso de retrofit2 con convertergson para asi poder obtener los datos del json mostrado en **Modelado de datos en Postman**_
 
 ## Comenzando 🚀
+
 
 
 ### Pre-requisitos 📋
