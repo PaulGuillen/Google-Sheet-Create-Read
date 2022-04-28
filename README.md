@@ -65,7 +65,7 @@ _Mostraré un ejemplo del estructura de la información que utilizaremos, en est
 
 ```
 
-_En progreso las demás partes del CRUD......._
+
 
 ## Autor ✒️
 
