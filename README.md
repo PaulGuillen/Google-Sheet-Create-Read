@@ -28,32 +28,15 @@ _Acá se aprecia como es el appscrit para generar un ENDPOINT y asi poder consul
 ## Modelo de datos en Postman 📖
 
 _Mostraré un ejemplo del estructura de la información que utilizaremos, en este caso sera la data insertada previamente_
+_Como podemos ver en la imagen el modelo de datos empieza con llaves lo que significa que es un objecto, dentro de ese objeto hay un Array llamado Items, dentro de ese array existe una lista de objetos, este sería nuestro principal enfoque a consultar._
 
-```
-{
-    "items": [
-        {
-            "productName": "Televisor ",
-            "productDescription": "50 pulgadas , HD , LED ",
-            "productSell": 2500,
-            "productBuy": 2200,
-            "productType": "Tipo 3",
-            "productRating": "4.0"
-        },
-        {
-            "productName": "Microondas",
-            "productDescription": "Amiray, con horno electrico",
-            "productSell": 550,
-            "productBuy": 450,
-            "productType": "Tipo 2",
-            "productRating": "3.0"
-        },
-           
+<p align="center">
+     <img src="https://i.postimg.cc/m2Pcrrzk/ListData.png"/>
+</p>
 
-```
+
 
 
 ## Autor ✒️
 
 * **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
-* 
