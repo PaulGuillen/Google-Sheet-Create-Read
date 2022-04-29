@@ -54,7 +54,11 @@ _Como podemos ver en la imagen el modelo de datos empieza con llaves lo que sign
 2. Consultado datos con retrofit2
    - GettingdataFromGoogleSheet
 	   - https://github.com/PaulGuillen/GoogleSheetCRUD/tree/GettingDataFromGoogleSheet
-	
+	.
+	.
+	.
+	.
+	En progreso Update and Delete
    
 ## Autor ✒️
 
