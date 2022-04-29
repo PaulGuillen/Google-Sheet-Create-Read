@@ -1,6 +1,6 @@
 # GoogleSheetCRUD
 
-_Este proyecto se enfocará en el uso de retrofit2 para consultas de datos, y volley para el registro con propósitos de aprendizaje, ademas del modelado de los datos, los cuales puedes observar en **Modelado de Datos en Postman**_
+_Este proyecto se enfocará en el uso de retrofit2 para consultar los datos, y volley para el registro con propósitos de aprendizaje, ademas del modelado de los datos, los cuales puedes observar en **Modelado de Datos en Postman**_
 
 ## Comenzando 🚀
 
